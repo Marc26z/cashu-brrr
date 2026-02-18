@@ -8,7 +8,7 @@ This website allows anyone to print little pieces of paper with small amounts of
 ## Tutorial
 1. Go to [brrr.gandlaf.com](https://brrr.gandlaf.com/).
 2. Choose a mint.
-3. 3. Click The connect button.
+3. Click The connect button.
 4. Confirm the currency.
 5. Chose your denomination(in satoshis) The amount must be from 1-500 satoshis.
 6. Donate to the developers(optional)
@@ -16,4 +16,6 @@ This website allows anyone to print little pieces of paper with small amounts of
 8. Pay the invoice with a cashu token or the ligntning network.
 9. Print the notes.
 10. Give paper money away that is a bearer instrument redeemable for real bitcoin.
+
+### Video Tutorial
 
