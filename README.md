@@ -15,4 +15,4 @@ This website allows anyone to print little pieces of paper with small amounts of
 8. Pay the invoice with a cashu token or the ligntning network.
 9. Print the notes.
 10. Give paper money away that is a bearer instrument redeemable for real bitcoin.
-![printed brrr]
+![printed brrr](https://github.com/Marc26z/cashu-brrr/blob/master/public/gandlafPics.png?raw=true)
