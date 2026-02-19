@@ -18,7 +18,7 @@ This website allows anyone to print little pieces of paper with small amounts of
 10. Give paper money away that is a bearer instrument redeemable for real bitcoin.
 
 ### Video Tutorial
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lf7WnZTS8tY?si=TI4aqiDdBgpL1QF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://youtu.be/lf7WnZTS8tY
 
 #### Disclaimer:
 ⚠️ If you are using this website, please take the following into consideration:
