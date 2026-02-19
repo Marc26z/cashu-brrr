@@ -18,4 +18,15 @@ This website allows anyone to print little pieces of paper with small amounts of
 10. Give paper money away that is a bearer instrument redeemable for real bitcoin.
 
 ### Video Tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lf7WnZTS8tY?si=TI4aqiDdBgpL1QF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Disclaimer:
+⚠️ If you are using this website, please take the following into consideration:
+
+    This should be used for research purposes only.
+    Cashu is a beta version with incomplete functionality and both known and unknown bugs.
+    Do not use it with large amounts of ecash.
+    The ecash stored in the wallet is issued by the mint. You trust the mint to back it with bitcoin until you transfer your holdings to another bitcoin lightning wallet.
+    Anyone with access to the QR code can redeem the bitcoin. It is a bearer instrument.
+    The Cashu protocol that the wallet implements has not yet received extensive review or testing.
 
